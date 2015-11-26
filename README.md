@@ -1,11 +1,16 @@
+EVIL
+---------------------------------
+
 When I feel `EVIL` I write some cool scripts
 
 ### cupid.py
 Script that tells my girlfriend, how much I love her <3
 
+#### Steps
+Edit `cupid.py` and set config variables on the top
+
 #### Requirements
-Edit `cupid.py` and edit config variables on the top
-It requires python module `requests`
+Dependencies: python-requests
 ```
 $ pip install requests
 ```
